@@ -57,4 +57,4 @@ For major changes, please open an issue first to discuss what you’d like to im
 
 ## License  
 
-[MIT](LICENSE) © 2025 Your Name  
+[MIT](LICENSE) © 2025 Zeeshan Zakir
